@@ -1,6 +1,6 @@
 ## Artifact Speculation Engine
 
-**An artifact domain simulator that uses a Monte Carlo engine to simulate game accurate artifact runs.**
+**A Monte Carlo based Artifact Domain Simulator Engine that simulates Genshin Impact artifact runs.**
 ___
 
 # TODO: Artifact Speculation Engine
