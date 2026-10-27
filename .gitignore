@@ -37,3 +37,6 @@ build-*/
 out/
 EXECUTIVESUMMARY.md
 SUGGESTIONS.md
+
+# Just in case
+cpp/nlohmann/
