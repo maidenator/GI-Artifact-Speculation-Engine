@@ -111,7 +111,7 @@ ___
 - [ ] Persist the hunt list and settings with zustand's `persist` middleware
 - [ ] Remove `UIDImport`'s bundle footprint once it's lazy-loaded (`characters.json`, 50 kB)
 - [ ] SEO: add `meta description`, absolute `og:image`, `twitter:card`, canonical link, `robots.txt`, and per-page titles
-- [ ] Delete dead files: `SpeculatorConfig.tsx`, `ui/button.tsx`, `lib/utils.ts`, `src/scratch/*.cjs`, the duplicate worker under `src/workers/src/...`, and the 0-byte JSON files
+- [X] Delete dead files: `SpeculatorConfig.tsx`, `ui/button.tsx`, `lib/utils.ts`, `src/scratch/*.cjs`, the duplicate worker under `src/workers/src/...`, and the 0-byte JSON files
 - [ ] Remove unused C++ config fields (`minRollValue`, `prioritySubstats`, `minPriorityRolls`) and the unused `score` parameter
 - [ ] Fix the Lemire rejection to use the full 64 bits
 - [ ] Fix the "SplitMix65" comment, or implement the real SplitMix64 seeding
